@@ -1,5 +1,7 @@
 # Huiwen_Gaokao_Profile_Photo_2019
 
+http://liuspython.com/hw_profile_photo/hw.html
+
 用于生成带有汇文高考加油头像框的头像。谨以此项目为高三汇文人加油
 
 This project is used for creating profile photos with a frame which says "Go get'em, Huiwen", in order to encourage the 12th Grade Huiwen'ers for the coming Gaokao.  2019.6.2
